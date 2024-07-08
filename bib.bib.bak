@@ -1,4 +1,3 @@
-% Encoding: UTF-8
 @online{____bayesian_2020,
   title = {Bayesian Inference: {{How}} Quadratic Approximation Works. {{Medium}}},
   shorttitle = {Bayesian Inference},
@@ -16253,11 +16252,11 @@
   howpublished = {Report by McKinsey \& Company}
 }
 
-@Article{Chui2018,
+@article{Chui:2018aa,
+  title = {Notes from the {{AI}} Frontier},
   author = {Chui, M. and Manyika, J. and Miremadi, M. and Henke, N. and Chung, R. and Nel, P. and Malhotra, A S},
-  title  = {Notes from the {{AI}} Frontier},
-  date   = {2018-04},
-  url    = {https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning},
+  date = {2018-04},
+  url = {https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning}
 }
 
 @article{Chung2006,
@@ -56648,16 +56647,16 @@
   doi = {10.7908/C1HD7SP0}
 }
 
-@Article{Lex2014a,
-  author       = {Lex, Alexander and Gehlenborg, Nils},
-  title        = {Sets and Intersections},
+@article{Lex2014,
+  title = {Sets and Intersections},
+  author = {Lex, Alexander and Gehlenborg, Nils},
+  date = {2014},
   journaltitle = {Nature Methods},
-  date         = {2014},
-  volume       = {11},
-  number       = {8},
-  pages        = {779},
-  issn         = {1548-7091},
-  doi          = {10.7908/C1HD7SP0},
+  volume = {11},
+  number = {8},
+  pages = {779},
+  issn = {1548-7091},
+  doi = {10.7908/C1HD7SP0}
 }
 
 @article{lfwp,
@@ -62357,13 +62356,13 @@
   pages = {85--139}
 }
 
-@Article{Mayer2002a,
-  author       = {Mayer, R E},
-  title        = {Multimedia Learning},
+@article{Mayer2002,
+  title = {Multimedia Learning},
+  author = {Mayer, R E},
+  date = {2002},
   journaltitle = {Psychology of Learning and Motivation},
-  date         = {2002},
-  volume       = {41},
-  pages        = {85--139},
+  volume = {41},
+  pages = {85--139}
 }
 
 @book{mayer2013big,
@@ -99452,13 +99451,13 @@
   doi = {10.1080/08870446.2018.1456660}
 }
 
-@Article{Versluis2018a,
-  author       = {Versluis, Anke and Verkuil, Bart and Spinhoven, Philip and Brosschot, Jos F.},
-  title        = {Effectiveness of a Smartphone-Based Worry-Reduction Training for Stress Reduction: {{A}} Randomized-Controlled Trial},
+@article{Versluis2018,
+  title = {Effectiveness of a Smartphone-Based Worry-Reduction Training for Stress Reduction: {{A}} Randomized-Controlled Trial},
+  author = {Versluis, Anke and Verkuil, Bart and Spinhoven, Philip and Brosschot, Jos F.},
+  date = {2018-04},
   journaltitle = {Psychology \& Health},
-  date         = {2018-04},
-  pages        = {1--21},
-  doi          = {10.1080/08870446.2018.1456660},
+  pages = {1--21},
+  doi = {10.1080/08870446.2018.1456660}
 }
 
 @article{Verzani2002,
@@ -108242,5 +108241,3 @@
   keywords = {toberead},
   file = {/Users/sebastiansaueruser/Literatur/Zyphur&Oswald_(2015)Bayesian Estimation and Inference - A User’s Guide.pdf}
 }
-
-@Comment{jabref-meta: databaseType:biblatex;}
